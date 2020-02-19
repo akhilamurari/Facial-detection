@@ -12,4 +12,4 @@ Facial detection is done by 2 methods
 
 1)By predefined or imported image.(detection.py)
 
-2) Detected using live video capture.(video.py)
+2)Detected using live video capture.(video.py)
